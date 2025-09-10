@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/01ff5e7fbda54056bb974cc4482b2191/artifacts
+end_time: 1757533298294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01ff5e7fbda54056bb974cc4482b2191
+run_name: lyrical-mare-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757533298103
+status: 4
+tags: []
+user_id: ADMIN

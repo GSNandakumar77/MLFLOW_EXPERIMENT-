@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f49614b55632407c9e0ba9beea94d128/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f49614b55632407c9e0ba9beea94d128
+run_name: defiant-foal-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757534248175
+status: 1
+tags: []
+user_id: ADMIN
