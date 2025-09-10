@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/486997626264692694/250bfd8a81584aa88a288016ec0d5d12/artifacts
+end_time: 1757507498710
+entry_point_name: ''
+experiment_id: '486997626264692694'
+lifecycle_stage: active
+run_id: 250bfd8a81584aa88a288016ec0d5d12
+run_name: popular-eel-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757507498366
+status: 4
+tags: []
+user_id: ADMIN

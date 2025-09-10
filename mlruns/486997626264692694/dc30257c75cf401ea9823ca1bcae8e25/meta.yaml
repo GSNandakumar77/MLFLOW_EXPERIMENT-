@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/486997626264692694/dc30257c75cf401ea9823ca1bcae8e25/artifacts
+end_time: 1757510561628
+entry_point_name: ''
+experiment_id: '486997626264692694'
+lifecycle_stage: active
+run_id: dc30257c75cf401ea9823ca1bcae8e25
+run_name: salty-doe-102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510547740
+status: 3
+tags: []
+user_id: ADMIN

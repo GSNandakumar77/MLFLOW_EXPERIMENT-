@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/486997626264692694/7e89ff631ded43dea8034d089f449c6b/artifacts
+end_time: 1757508103655
+entry_point_name: ''
+experiment_id: '486997626264692694'
+lifecycle_stage: active
+run_id: 7e89ff631ded43dea8034d089f449c6b
+run_name: selective-shrimp-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508103414
+status: 4
+tags: []
+user_id: ADMIN

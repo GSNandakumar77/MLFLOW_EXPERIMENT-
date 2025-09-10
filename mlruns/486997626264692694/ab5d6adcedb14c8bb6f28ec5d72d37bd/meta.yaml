@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/486997626264692694/ab5d6adcedb14c8bb6f28ec5d72d37bd/artifacts
+end_time: 1757508125752
+entry_point_name: ''
+experiment_id: '486997626264692694'
+lifecycle_stage: active
+run_id: ab5d6adcedb14c8bb6f28ec5d72d37bd
+run_name: casual-mole-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757508113070
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,3 +1,6 @@
 mlflow==3.2.0
 numpy
 pandas
+ipykernel
+jupyterlab
+scikit-learn

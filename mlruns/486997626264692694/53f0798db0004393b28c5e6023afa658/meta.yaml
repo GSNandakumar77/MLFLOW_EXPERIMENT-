@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/486997626264692694/53f0798db0004393b28c5e6023afa658/artifacts
+end_time: 1757510573117
+entry_point_name: ''
+experiment_id: '486997626264692694'
+lifecycle_stage: active
+run_id: 53f0798db0004393b28c5e6023afa658
+run_name: silent-stork-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757510561941
+status: 3
+tags: []
+user_id: ADMIN

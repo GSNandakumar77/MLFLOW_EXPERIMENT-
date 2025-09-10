@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/486997626264692694/cd6849d92b3849ea92f60ac26c46b558/artifacts
+end_time: 1757512425311
+entry_point_name: ''
+experiment_id: '486997626264692694'
+lifecycle_stage: active
+run_id: cd6849d92b3849ea92f60ac26c46b558
+run_name: industrious-loon-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757512412034
+status: 3
+tags: []
+user_id: ADMIN
