@@ -1,0 +1,76 @@
+README.md Draft
+📊 MLflow Experiments – Housing Price & Deep Learning
+
+This repository contains two example projects demonstrating how to use MLflow for experiment tracking, model management, and reproducibility. The goal of this repo is to learn MLflow in a practical, hands-on way using both a regression task (housing price prediction) and a deep learning task (ANN model).
+
+🚀 Projects Included
+🏠 Housing Price Prediction
+
+Uses regression techniques to predict housing prices.
+
+Tracks parameters, metrics, and artifacts using MLflow.
+
+Demonstrates MLflow integration with scikit-learn models.
+
+🤖 Deep Learning with ANN
+
+Implements an Artificial Neural Network (ANN).
+
+Logs training metrics and loss curves to MLflow.
+
+Showcases MLflow with deep learning workflows.
+
+⚙️ Features
+
+📂 MLflow Tracking for both classical ML & deep learning
+
+🗂️ Experiment logging: parameters, metrics, artifacts
+
+🔄 Reproducible ML pipelines
+
+🧪 Jupyter notebooks for interactive learning
+
+🏗️ Project Structure
+mlflow-experiments/
+│── 1-mlproject/               # Housing price MLflow project
+│   ├── housepricepredict.ipynb
+│   ├── started.ipynb
+│── 2-DLMLFLOW/                 # Deep learning MLflow project
+│   ├── ANN_MLFLOW.ipynb
+│── mlruns/                     # MLflow local tracking directory
+│── requirements.txt            # Dependencies
+│── README.md                   # Documentation
+
+⚡ Setup & Run
+
+Clone the repo:
+
+git clone https://github.com/<your-username>/mlflow-experiments.git
+cd mlflow-experiments
+
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Run MLflow UI locally:
+
+mlflow ui
+
+
+Open in browser:
+
+http://127.0.0.1:5000
+
+📊 MLflow Tracking Example
+
+Logs include:
+
+Parameters (learning rate, epochs, alpha, l1_ratio, etc.)
+
+Metrics (R² score, RMSE, training/validation loss)
+
+Models (scikit-learn & ANN)
+
+Plots & artifacts
